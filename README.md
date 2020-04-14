@@ -1,2 +1,2 @@
 # Login-register
-Using Html &amp; CSS
+A web page using html and CSS
